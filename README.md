@@ -2,7 +2,7 @@
 - 👀 I’m interested in web3, blockchain,....
 - 🌱 I’m currently learning about blockchain
 - 💞️ I’m looking to collaborate on new projects related to web3 and blockchain
-- 📫 How to reach me @Nitis8 on Github
+- 📫 reach me @Nitis8 on Github and @robince08 on that bird app 
 
 <!---
 Nitis8/Nitis8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
